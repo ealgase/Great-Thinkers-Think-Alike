@@ -1,0 +1,4 @@
+textarea{
+	overflow:auto;
+}
+/*IE sometimes puts scrollers on textareas when it shouldn't.  this fixes that.*/
