@@ -1,4 +1,0 @@
-a[href], input[type='submit'], input[type='image'], label[for], select, button, .pointer {
-       cursor: pointer;
-}
-/*some things that should have the cursor opinter don't.  this fixes that*/

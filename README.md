@@ -1,2 +1,2 @@
 # Great-Thinkers-Think-Alike
-Useless code snippets
+GH-Pages site for Great-Thinkers-Think-Alike
