@@ -1,3 +1,5 @@
 input:checked{
   background: yellow;
+}input:selected{
+background: yellow;
 }
